@@ -12,3 +12,5 @@ https://jaime-gg.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jaime Gallegos Garcia
+
+### ©️2019 Run Buddy, Inc 
